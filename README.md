@@ -4,17 +4,33 @@
 
 <hr>
 
-**Loadiing** Auto-Entrepreneur, Étudiant autodidacte passionné par l'univers du digital.
+**Loadiing** Independent student, self-taught and passionate about the digital world.
 
-### Développement Web & Design
+### Development Web & Design
 
-* 💬 Codepen   : [LoadiingOff](https://codepen.io/loadiingoff) 
-* 🌐 WebSite : [loadiing.eu](https://loadiing.eu/)
-* 🌐 WebSite Project : [CreatorHub](https://creatorhub.eu/)
-* 📧 E-mail     : contact@loadiing.eu
+* 💬 Codepen   : [LoadiingOff](https://codepen.io/loadiingoff/) 
+* 🪐 WebSite : [loadiing.eu](https://loadiing.eu/)
+* 🍀 Project : 
+    - [CreatorHub](https://creatorhub.eu/), 
+    - [Mini-Jeux](https://discord.gg/jeux/), 
+    - [Owned Esport](https://owned-esport.fr/)
+* 📚 E-mail     : contact@loadiing.eu
 
-### 🔭 Environnement de travail
+### Community Management
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+* 🌸 Instagram : [Conv Insta](https://instagram.com/conv_insta_/)
+* 💜 Facebook : [Citations & Vidéos](https://www.facebook.com/citaxx.goxl/)
+
+### Big Project
+
+* 👔 Clothing brand : [Fridelux](https://instagram.com/conv_insta_)
+
+### 🔭 Work environment
+
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php)
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
