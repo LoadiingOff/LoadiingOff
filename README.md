@@ -11,19 +11,20 @@
 * 💬 Codepen   : [LoadiingOff](https://codepen.io/loadiingoff/) 
 * 🪐 WebSite : [loadiing.eu](https://loadiing.eu/)
 * 🍀 Project : 
+    - [Owned Esport](https://owned-esport.fr/)
     - [CreatorHub](https://creatorhub.eu/), 
     - [Mini-Jeux](https://discord.gg/jeux/), 
-    - [Owned Esport](https://owned-esport.fr/)
 * 📚 E-mail     : contact@loadiing.eu
 
-### Community Management
+### Manager Communication
 
+* 🎨 Discord : [Creative Arts](https://discord.gg/arts/)
 * 🌸 Instagram : [Conv Insta](https://instagram.com/conv_insta_/)
 * 💜 Facebook : [Citations & Vidéos](https://www.facebook.com/citaxx.goxl/)
 
 ### Big Project
 
-* 👔 Clothing brand : [Fridelux](https://instagram.com/conv_insta_)
+* 👔 Clothing brand : [Fridelux](https://instagram.com/) - SOON
 
 ### 🔭 Work environment
 
