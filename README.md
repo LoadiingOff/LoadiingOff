@@ -11,8 +11,9 @@
 * 💬 Codepen   : [LoadiingOff](https://codepen.io/loadiingoff/) 
 * 🪐 WebSite : [loadiing.eu](https://loadiing.eu/)
 * 🍀 Project : 
-    - [Owned Esport](https://owned-esport.fr/)
+    - [Owned Esport](https://owned-esport.fr/),
     - [CreatorHub](https://creatorhub.eu/), 
+    - [WellnessCamp](https://discord.gg/vgFqtwbShv),
     - [Mini-Jeux](https://discord.gg/jeux/), 
 * 📚 E-mail     : contact@loadiing.eu
 
@@ -24,6 +25,7 @@
 
 ### Big Project
 
+* 🏢 Digital Agency - [Owned Agency](https://owned-agency.fr/)
 * 👔 Clothing brand : [Fridelux](https://instagram.com/) - SOON
 
 ### 🔭 Work environment
