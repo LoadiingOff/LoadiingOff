@@ -13,7 +13,7 @@
 * 🍀 Project : 
     - [Owned Esport](https://owned-esport.fr/),
     - [CreatorHub](https://creatorhub.eu/), 
-    - [WellnessCamp](https://discord.gg/vgFqtwbShv),
+    - [BubblePlace](https://discord.gg/vgFqtwbShv),
     - [Mini-Jeux](https://discord.gg/jeux/), 
 * 📚 E-mail     : contact@loadiing.eu
 
