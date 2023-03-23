@@ -20,7 +20,7 @@
 
 * 🏢 Digital Agency : [Owned Agency](https://owned-agency.fr/)
 * 👔 Clothing brand : [Fridelux](https://instagram.com/) - SOON
-<br>                  [Owned](https://eliminate.fr/categorie-produit/owned/) - SOON
+* 👔 Clothing brand : [Owned Shop](https://eliminate.fr/categorie-produit/owned/)
 
 ### 🔭 Work environment
 
