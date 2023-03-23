@@ -10,16 +10,17 @@
 
 * 💬 Codepen   : [LoadiingOff](https://codepen.io/loadiingoff/) 
 * 🪐 WebSite : [loadiing.eu](https://loadiing.eu/)
-* <img src="https://docs.codewars.com/logo.svg"> Codewars : [LoadiingOff](https://www.codewars.com/users/LoadiingOff/stats)
+* 💻 Codewars : [LoadiingOff](https://www.codewars.com/users/LoadiingOff/stats)
 * 🍀 Project : 
     - [Owned Esport](https://owned-esport.fr/),
-    - [CreatorHub](https://creatorhub.eu/), 
+    - [CreatorHub](https://creatorhub.eu/) (SOON), 
 * 📚 E-mail     : contact@loadiing.eu
 
 ### Big Project
 
 * 🏢 Digital Agency : [Owned Agency](https://owned-agency.fr/)
 * 👔 Clothing brand : [Fridelux](https://instagram.com/) - SOON
+*                     [Owned](https://eliminate.fr/categorie-produit/owned/) - SOON
 
 ### 🔭 Work environment
 
