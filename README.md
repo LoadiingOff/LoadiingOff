@@ -10,6 +10,7 @@
 
 * 💬 Codepen   : [LoadiingOff](https://codepen.io/loadiingoff/) 
 * 🪐 WebSite : [loadiing.eu](https://loadiing.eu/)
+* <img src="https://docs.codewars.com/logo.svg"> Codewars : [LoadiingOff](https://www.codewars.com/users/LoadiingOff/stats)
 * 🍀 Project : 
     - [Owned Esport](https://owned-esport.fr/),
     - [CreatorHub](https://creatorhub.eu/), 
