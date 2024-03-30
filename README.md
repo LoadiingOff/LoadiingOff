@@ -10,7 +10,7 @@
 
 * 💬 Codepen   : [LoadiingOff](https://codepen.io/loadiingoff/) 
 * 🪐 WebSite : 
-    - 🇬🇧 : [loadiing.eu](https://loadiing.eu/),
+    - 🇬🇧 : [loadiing.eu](https://loadiing.eu/)
     - 🇫🇷 : [loadiing.fr](https://loadiing.fr/)
 * 💻 Codewars : [LoadiingOff](https://www.codewars.com/users/LoadiingOff/stats)
 * 🍀 Project : 
@@ -21,7 +21,7 @@
 
 ### Big Project
 
-* 🥤 Energy Drink : [Owned Energy Drink](https://shop.owned-esport.fr/),
+* 🥤 Energy Drink : [Owned Energy Drink](https://shop.owned-esport.fr/)
 * 👔 Clothing brand : [Owned Shop](https://eliminate.fr/categorie-produit/owned/)
 
 ### 🔭 Work environment
