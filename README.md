@@ -9,17 +9,19 @@
 ### Development Web & Design
 
 * 💬 Codepen   : [LoadiingOff](https://codepen.io/loadiingoff/) 
-* 🪐 WebSite : [loadiing.eu](https://loadiing.eu/)
+* 🪐 WebSite : 
+    - 🇬🇧 : [loadiing.eu](https://loadiing.eu/),
+    - 🇫🇷 : [loadiing.fr](https://loadiing.fr/)
 * 💻 Codewars : [LoadiingOff](https://www.codewars.com/users/LoadiingOff/stats)
 * 🍀 Project : 
-    - [Owned Esport](https://owned-esport.fr/),
-    - [CreatorHub](https://creatorhub.eu/) (SOON), 
+    - [Owned eSport](https://owned-esport.fr/),
+    - [CreatorHub](https://creatorhub.eu/) (SOON)
 * 📚 E-mail     : contact@loadiing.eu
+* ‍💼 CEO : Owned, Owned eSport, Owned Energy Drink
 
 ### Big Project
 
-* 🏢 Digital Agency : [Owned Agency](https://owned-agency.fr/)
-* 👔 Clothing brand : [Fridelux](https://instagram.com/) - SOON
+* 🥤 Energy Drink : [Owned Energy Drink](https://shop.owned-esport.fr/),
 * 👔 Clothing brand : [Owned Shop](https://eliminate.fr/categorie-produit/owned/)
 
 ### 🔭 Work environment
