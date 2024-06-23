@@ -17,7 +17,7 @@
     - [Owned eSport](https://owned-esport.fr/),
     - [CreatorHub](https://creatorhub.eu/) (SOON)
 * 📚 E-mail     : contact@loadiing.eu
-* ‍💼 CEO : Owned, Owned eSport, Owned Energy Drink
+* ‍💼 CEO : Owned France, Owned eSport, Owned Energy Drink
 
 ### Big Project
 
