@@ -1,8 +1,7 @@
 ### Hello 👋
-![profile views](https://komarev.com/ghpvc/?username=LoadiingOff&label=Profile%20views&color=ee6c4d&style=flat)
-<br>
 
-![CodeWars](https://www.codewars.com/users/LoadiingOff/badges/large)
+![profile views](https://komarev.com/ghpvc/?username=LoadiingOff&label=Profile%20views&color=ee6c4d&style=flat)
+
 <hr>
 
 **Loadiing** Independent student, self-taught and passionate about the digital world.
@@ -28,10 +27,13 @@
 ### 🔭 Work environment
 
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5)
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php)
 ![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat&logo=ruby)
 ![NodeJS](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+
+![CodeWars](https://www.codewars.com/users/LoadiingOff/badges/large)
 
