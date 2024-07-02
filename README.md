@@ -1,7 +1,8 @@
-### Hello  👋
-
+### Hello 👋
 ![profile views](https://komarev.com/ghpvc/?username=LoadiingOff&label=Profile%20views&color=ee6c4d&style=flat)
+<br>
 
+![CodeWars](https://www.codewars.com/users/LoadiingOff/badges/large)
 <hr>
 
 **Loadiing** Independent student, self-taught and passionate about the digital world.
