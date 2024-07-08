@@ -35,5 +35,5 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
-![CodeWars](https://www.codewars.com/users/LoadiingOff/badges/large)
+<!--![CodeWars](https://www.codewars.com/users/LoadiingOff/badges/large)-->
 
